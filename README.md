@@ -2,7 +2,6 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-Used-217346?logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Used-F2C811?logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 **Author:** Akoma Prosper Nkemjika
 **Contact:** akomawole@gmail.com
